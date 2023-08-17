@@ -1,5 +1,5 @@
 import React from "react";
-import "./Recipesection";
+import "./Recipesection.scss";
 
 export default function Recipesection() {
   return (

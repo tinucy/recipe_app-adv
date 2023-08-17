@@ -6,10 +6,10 @@ import Recipesection from "../Recipesection/Recipesection";
 
 export default function Main() {
   return (
-    <>
+    <main>
       <Search />
       <Searchhero />
       <Recipesection />
-    </>
+    </main>
   );
 }

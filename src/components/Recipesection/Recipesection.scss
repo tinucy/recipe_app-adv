@@ -1,3 +1,9 @@
+.recipe_section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 .recipe {
   max-width: 190px;
 }
@@ -19,10 +25,4 @@
   font-size: 15px;
   font-family: Arial;
   color: lightgray;
-}
-
-.recipe_section {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
 }
